@@ -1,0 +1,15 @@
+.shadaw{
+    margin: 25px;
+    border: 20px solid greenyellow;
+    background-color: bisque;
+    box-shadow: 20px 40px 60px chocolate;
+    
+}
+.photo{
+    height: 500px;
+    background-image: url('82e0e255-17f9-41e0-85f1-210163b0ea34_hero-blur-image-3.avif');
+    background-size: 1450px;
+}
+.write{
+    color: deeppink;
+}

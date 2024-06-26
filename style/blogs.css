@@ -1,0 +1,31 @@
+h3{
+   font-size: 30px;
+   text-decoration: overline; 
+   font-family: 'Courier New', Courier, monospace;
+}
+.photo{
+    height: 400px; 
+    background-image: url('A-clear-image-of-a-woman-wearing-red-sharpened-by-Fotors-image-sharpener.jpg');
+    /* background-repeat: repeat-x; */
+    background-size: 1450px; 
+    /* background-size: contain; */
+    
+}        
+   
+    
+.first{
+    margin: 40px;
+    border: 30px solid blue;
+    box-shadow: 30px 20px 50px red;
+}
+.forth{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.call{
+    border: 3px solid red;
+
+}
+li{
+    display: inline;
+}
